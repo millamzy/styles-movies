@@ -23,7 +23,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>AG-styles Movies</h1>
+      <h1>Styles Movies</h1>
 
       <div className="search">
         <input
